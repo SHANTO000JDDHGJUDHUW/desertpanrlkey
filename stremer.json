@@ -7,6 +7,13 @@
       "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
       "Expires": "2030-09-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "desert",
+      "PasswordHash": "$2a$11$4HW0650JQwqPFtTAfWrI5uzXPwi05n033ZaegPZ78OBzimFJ7yDJS",
+      "HWID": null,
+      "Expires": "2025-09-06T20:55:28.585",
+      "IsBanned": false
     }
   ]
 }
