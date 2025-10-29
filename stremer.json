@@ -1,1 +1,12 @@
-1
+{
+  "Pause": false,
+  "Users": [
+    {
+      "Username": "SHANTO",
+      "PasswordHash": "$2a$11$O7riLgkCI/JvQo5tfbLUhuF9XJ.0rEyIyUDuE6dU6JM/sQ18UY6t6",
+      "HWID": null,
+      "Expires": "2030-09-06T20:55:28",
+      "IsBanned": false
+    }
+  ]
+}
