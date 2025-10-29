@@ -2,13 +2,6 @@
   "Pause": false,
   "Users": [
     {
-      "Username": "SHANTO",
-      "PasswordHash": "$2a$11$bstdlfzW2lN8nvY1oAaiHus8hr5mpvXWbZKMZKsD3i0sH3CmjjBbC",
-      "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
-      "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "desert",
       "PasswordHash": "$2a$11$4HW0650JQwqPFtTAfWrI5uzXPwi05n033ZaegPZ78OBzimFJ7yDJS",
       "HWID": null,
