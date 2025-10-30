@@ -7,6 +7,13 @@
       "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
       "Expires": "2055-09-07T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "tanvir",
+      "PasswordHash": "$2a$11$sW8dPheRKqfigDv1ap8rM.K0PCBPdaeikq2ECPLEbsY1rccs3WluO",
+      "HWID": null,
+      "Expires": "2027-03-04T20:55:28",
+      "IsBanned": false
     }
   ]
 }
