@@ -49,6 +49,13 @@
       "HWID": null,
       "Expires": "2025-09-06T20:55:28.585",
       "IsBanned": false
+    },
+    {
+      "Username": "rudra",
+      "PasswordHash": "$2a$11$IFurIy5ymg29V8o3LftDtOZIk62bDNi6lzKYxrPcgMHMCshdkJ4Za",
+      "HWID": null,
+      "Expires": "2026-06-12T20:55:28",
+      "IsBanned": false
     }
   ]
 }
