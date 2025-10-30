@@ -37,13 +37,6 @@
       "IsBanned": false
     },
     {
-      "Username": "",
-      "PasswordHash": "$2a$11$6TsO1Bre6gT1Hxto9dPA2OFZvm2zGUpF4spMuVlM5UFTd7FYRnbE.",
-      "HWID": null,
-      "Expires": "2025-09-06T20:55:28.585",
-      "IsBanned": false
-    },
-    {
       "Username": "khalid",
       "PasswordHash": "$2a$11$lwL7q.CcA7KcLMqMdxcP3eLDuXax6aUBwP9yW8OF57RzI23uJfvwC",
       "HWID": null,
