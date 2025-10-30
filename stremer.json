@@ -28,6 +28,13 @@
       "HWID": null,
       "Expires": "2025-09-06T20:55:28.585",
       "IsBanned": false
+    },
+    {
+      "Username": "hasan",
+      "PasswordHash": "$2a$11$huEBwwAHrpslnJcihlWtOeTgjJp3V9yQcHwfUHV.VUe9KxgjVveTK",
+      "HWID": null,
+      "Expires": "2026-12-04T20:55:28",
+      "IsBanned": false
     }
   ]
 }
