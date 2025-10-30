@@ -39,7 +39,7 @@
     {
       "Username": "khalid",
       "PasswordHash": "$2a$11$lwL7q.CcA7KcLMqMdxcP3eLDuXax6aUBwP9yW8OF57RzI23uJfvwC",
-      "HWID": null,
+      "HWID": "c33fa62c-c5e2-4e62-9dec-5c6333ecda3b",
       "Expires": "2026-07-23T20:55:28",
       "IsBanned": false
     },
