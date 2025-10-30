@@ -28,6 +28,13 @@
       "HWID": null,
       "Expires": "2026-07-08T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "rajib",
+      "PasswordHash": "$2a$11$oV2bT2XXQ2hLWqdeRC5fw.zOUvj6CoQ9agjeyrvkb9MO9OvmmHRkO",
+      "HWID": null,
+      "Expires": "2026-08-08T20:55:28",
+      "IsBanned": false
     }
   ]
 }
