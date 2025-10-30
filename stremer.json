@@ -16,13 +16,6 @@
       "IsBanned": false
     },
     {
-      "Username": "rajib",
-      "PasswordHash": "$2a$11$hSUO54GZr4dbTG1KkaAfmeQv/AuJLpQTNoegKeav5m29tF0p2mN7m",
-      "HWID": null,
-      "Expires": "2025-09-06T20:55:28.585",
-      "IsBanned": false
-    },
-    {
       "Username": "hasan",
       "PasswordHash": "$2a$11$huEBwwAHrpslnJcihlWtOeTgjJp3V9yQcHwfUHV.VUe9KxgjVveTK",
       "HWID": null,
