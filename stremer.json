@@ -63,6 +63,13 @@
       "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
       "Expires": "2025-12-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "sohan",
+      "PasswordHash": "$2a$11$DmimsauMZWIw8NQP5rCK3.dCYA9uXjyf4uyFmscdLaAZcv57j/rX2",
+      "HWID": null,
+      "Expires": "2027-07-30T20:55:28",
+      "IsBanned": false
     }
   ]
 }
