@@ -60,7 +60,7 @@
     {
       "Username": "S",
       "PasswordHash": "$2a$11$LSZf25AN3FWHa87OL7rgweCiyCjiLXANGOvdm9n4TqiSaZaz.B99u",
-      "HWID": null,
+      "HWID": "efd261e4-d452-4ef7-b321-35ad885a13ef",
       "Expires": "2025-12-06T20:55:28",
       "IsBanned": false
     }
