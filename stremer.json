@@ -77,6 +77,13 @@
       "HWID": null,
       "Expires": "2030-02-05T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "oxi",
+      "PasswordHash": "$2a$11$UqirGxIKgSVKZG3jugRjOepmGcH5bpy5XD7RgyYnrRFu3pQCDDGmm",
+      "HWID": null,
+      "Expires": "2027-02-02T20:55:28",
+      "IsBanned": false
     }
   ]
 }
