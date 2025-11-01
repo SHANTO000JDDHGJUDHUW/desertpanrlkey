@@ -70,6 +70,13 @@
       "HWID": "775623e8-b3db-464e-88aa-e6e918312cb6",
       "Expires": "2027-07-30T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "sini",
+      "PasswordHash": "$2a$11$8u2IbAd8qkzRkX98wBLtUehfSAf3Cy6YI9Kgw1uoIcBOHGwBDDkLS",
+      "HWID": null,
+      "Expires": "2030-02-05T20:55:28",
+      "IsBanned": false
     }
   ]
 }
