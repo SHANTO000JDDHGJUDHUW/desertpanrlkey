@@ -77,13 +77,6 @@
       "HWID": "e5b14dd1-5c15-4a9f-9344-6e176faffe37",
       "Expires": "2030-02-05T20:55:28",
       "IsBanned": false
-    },
-    {
-      "Username": "oxi",
-      "PasswordHash": "$2a$11$UqirGxIKgSVKZG3jugRjOepmGcH5bpy5XD7RgyYnrRFu3pQCDDGmm",
-      "HWID": "dba94351-6be2-4125-99ec-bb5e6273fc0b",
-      "Expires": "2027-02-02T20:55:28",
-      "IsBanned": false
     }
   ]
 }
