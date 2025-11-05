@@ -74,7 +74,7 @@
     {
       "Username": "sini",
       "PasswordHash": "$2a$11$8u2IbAd8qkzRkX98wBLtUehfSAf3Cy6YI9Kgw1uoIcBOHGwBDDkLS",
-      "HWID": "e5b14dd1-5c15-4a9f-9344-6e176faffe37",
+      "HWID": null,
       "Expires": "2030-02-05T20:55:28",
       "IsBanned": false
     },
