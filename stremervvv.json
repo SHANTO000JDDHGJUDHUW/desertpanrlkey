@@ -30,13 +30,6 @@
       "IsBanned": false
     },
     {
-      "Username": "rudra",
-      "PasswordHash": "$2a$11$IFurIy5ymg29V8o3LftDtOZIk62bDNi6lzKYxrPcgMHMCshdkJ4Za",
-      "HWID": "7278f39b-0afa-4423-a37f-853cd60853fe",
-      "Expires": "2026-06-12T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "alif",
       "PasswordHash": "$2a$11$Ufs3.6PN4IDAMpW7FHWakOtwP9J3eOJH2r8DLZaIoVBa8j6LO5lXa",
       "HWID": "c5a05f8c-f1c3-481e-8c78-437ea882d7f3",
