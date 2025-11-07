@@ -14,6 +14,13 @@
       "HWID": null,
       "Expires": "2027-08-06T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "alif",
+      "PasswordHash": "$2a$11$fpDEFmBhjQPmOGwq03h3g.K7LT3K3vj70nbIfqKAe72S.V7fm9zdq",
+      "HWID": null,
+      "Expires": "2026-07-23T20:55:28",
+      "IsBanned": false
     }
   ]
 }
