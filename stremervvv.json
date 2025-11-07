@@ -30,13 +30,6 @@
       "IsBanned": false
     },
     {
-      "Username": "rajib",
-      "PasswordHash": "$2a$11$oV2bT2XXQ2hLWqdeRC5fw.zOUvj6CoQ9agjeyrvkb9MO9OvmmHRkO",
-      "HWID": "3c271ca5-6dfa-435a-a2e3-a87a7f530399",
-      "Expires": "2026-08-08T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "khalid",
       "PasswordHash": "$2a$11$lwL7q.CcA7KcLMqMdxcP3eLDuXax6aUBwP9yW8OF57RzI23uJfvwC",
       "HWID": "c33fa62c-c5e2-4e62-9dec-5c6333ecda3b",
