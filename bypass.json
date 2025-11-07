@@ -9,13 +9,6 @@
       "IsBanned": false
     },
     {
-      "Username": "tanvir",
-      "PasswordHash": "$2a$11$sW8dPheRKqfigDv1ap8rM.K0PCBPdaeikq2ECPLEbsY1rccs3WluO",
-      "HWID": "398ebf48-3f18-487b-be2b-7452db95f34a",
-      "Expires": "2027-03-04T20:55:28",
-      "IsBanned": false
-    },
-    {
       "Username": "1",
       "PasswordHash": "$2a$11$Dfrq/kDg36SVSMq54DQe5eiRUXj7yWtobGK.Pp0NWP3MXITU0/Avm",
       "HWID": null,
