@@ -77,6 +77,13 @@
       "HWID": "3c271ca5-6dfa-435a-a2e3-a87a7f530399",
       "Expires": "2026-07-29T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "rudra",
+      "PasswordHash": "$2a$11$JndmeAAYkwIlgJlnb/dRGustR9IDTMlBqAFd/wPP0wjVYlQBSH2cS",
+      "HWID": null,
+      "Expires": "2026-07-23T20:55:28",
+      "IsBanned": false
     }
   ]
 }
