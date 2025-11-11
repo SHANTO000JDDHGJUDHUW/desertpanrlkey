@@ -35,6 +35,13 @@
       "HWID": "8d5a1dc3-3092-46e4-bca0-1b0539b17775",
       "Expires": "2026-11-01T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "raistar",
+      "PasswordHash": "$2a$11$EnHZ02TmfflWs.Ep8gnsFeKhKCGzV/AgP9kB9zdTYHUHEGCWU6Lzu",
+      "HWID": null,
+      "Expires": "2026-07-16T20:55:28",
+      "IsBanned": false
     }
   ]
 }
