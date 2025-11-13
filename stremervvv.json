@@ -18,7 +18,7 @@
     {
       "Username": "hasan",
       "PasswordHash": "$2a$11$huEBwwAHrpslnJcihlWtOeTgjJp3V9yQcHwfUHV.VUe9KxgjVveTK",
-      "HWID": "745c2d67-395b-4002-ad26-745c3a9bd93b",
+      "HWID": null,
       "Expires": "2026-12-04T20:55:28",
       "IsBanned": false
     },
