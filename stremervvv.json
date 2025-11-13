@@ -60,7 +60,7 @@
     {
       "Username": "mijan",
       "PasswordHash": "$2a$11$9NgKBEiArpR1HzQjXktOwu/WYwbiogEtZbkJ9I4YtjsFNNxgbsCWO",
-      "HWID": "aa961f29-55f4-4ac5-971e-89152b50e2b2",
+      "HWID": null,
       "Expires": "2027-01-02T20:55:28",
       "IsBanned": false
     },
