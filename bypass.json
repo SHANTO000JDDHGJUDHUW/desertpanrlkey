@@ -49,6 +49,13 @@
       "HWID": "775623e8-b3db-464e-88aa-e6e918312cb6",
       "Expires": "2026-07-15T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "rolex",
+      "PasswordHash": "$2a$11$jBfrGoEz8Vio3fqDkMJ0JeFv2sMTZu7AUniMhQapWwlkmzc7SUH3y",
+      "HWID": null,
+      "Expires": "2026-09-22T20:55:28",
+      "IsBanned": false
     }
   ]
 }
