@@ -84,6 +84,13 @@
       "HWID": "f7ded558-dd54-4678-9b1c-84588ee884c9",
       "Expires": "2026-07-14T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "Fapor",
+      "PasswordHash": "$2a$11$6vdBU/E9pZF47HTRCe5GU.me1Lccv0zloTk8rQW8fYk.tHN7TpABa",
+      "HWID": null,
+      "Expires": "2026-03-11T20:55:28",
+      "IsBanned": false
     }
   ]
 }
