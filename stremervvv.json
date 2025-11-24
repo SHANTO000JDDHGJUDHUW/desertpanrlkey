@@ -81,7 +81,7 @@
     {
       "Username": "rolex",
       "PasswordHash": "$2a$11$VSnYChsiLyLc9I.psq1Q6u7dIcIGSvk.0M4jijtovwFN1.MammHm.",
-      "HWID": "f7ded558-dd54-4678-9b1c-84588ee884c9",
+      "HWID": null,
       "Expires": "2026-07-14T20:55:28",
       "IsBanned": false
     },
