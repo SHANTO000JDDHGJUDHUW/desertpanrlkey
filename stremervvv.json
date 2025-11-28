@@ -91,6 +91,13 @@
       "HWID": null,
       "Expires": "2026-03-11T20:55:28",
       "IsBanned": false
+    },
+    {
+      "Username": "mim",
+      "PasswordHash": "$2a$11$.AlPctos1HmVqS2VYv4owuJE02XKzBhR.IDq0XzErrekbYpZkQ4Ha",
+      "HWID": null,
+      "Expires": "2026-07-22T20:55:28",
+      "IsBanned": false
     }
   ]
 }
