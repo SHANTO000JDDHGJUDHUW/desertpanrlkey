@@ -46,7 +46,7 @@
     {
       "Username": "sohan",
       "PasswordHash": "$2a$11$DmimsauMZWIw8NQP5rCK3.dCYA9uXjyf4uyFmscdLaAZcv57j/rX2",
-      "HWID": "775623e8-b3db-464e-88aa-e6e918312cb6",
+      "HWID": null,
       "Expires": "2027-07-30T20:55:28",
       "IsBanned": false
     },
