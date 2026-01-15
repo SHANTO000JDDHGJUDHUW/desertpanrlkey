@@ -91,13 +91,6 @@
       "HWID": "f6a1f924-1fc3-48e6-99ae-785b64527d79",
       "Expires": "2026-07-16T20:55:28",
       "IsBanned": false
-    },
-    {
-      "Username": "shanto",
-      "PasswordHash": "$2a$11$jqzUIBx4/VyOL98fJXw1eu1vpPfjUFPRD2dEhbWiW0cxBII0.YfmG",
-      "HWID": "7e1de084-ae53-46b8-81c2-895819680797",
-      "Expires": "2030-09-06T20:55:28",
-      "IsBanned": false
     }
   ]
 }
